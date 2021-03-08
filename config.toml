@@ -45,7 +45,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "$ cd /home/kawasaki/"
-      logoHomeLink = "/"
+      logoHomeLink = ""
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -64,7 +64,7 @@ paginate     = 10
 
     [languages.pt-br.params.logo]
       logoText = "$ cd /home/kawasaki/"
-      logoHomeLink = "/pt-br"
+      logoHomeLink = "pt-br/"
   
   [languages.da-dk]
     languageName = "DK"
@@ -79,7 +79,7 @@ paginate     = 10
 
     [languages.da-dk.params.logo]
       logoText = "$ cd /home/kawasaki/"
-      logoHomeLink = "/da-dk"
+      logoHomeLink = "da-dk/"
 
 [menu]
   [[menu.main]]
